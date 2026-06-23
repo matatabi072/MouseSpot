@@ -1,5 +1,4 @@
-[README.md](https://github.com/user-attachments/files/29226677/README.md)
-# MouseSpot# MouseSpot
+# MouseSpot
 
 プレゼンテーション・操作説明動画／画像の作成向けに、**マウスカーソル・クリック・キー入力を画面上で強調表示**する軽量な常駐ツールです。Windows 用・単一実行ファイル（約 350 KB）・ランタイム依存なし。
 

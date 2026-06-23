@@ -1,0 +1,14 @@
+/target
+Cargo.lock
+*.rs.bk
+.DS_Store
+Thumbs.db
+
+# ローカル設定・ランタイムデータ（%APPDATA% に保存されるが念のため）
+config.toml
+window.txt
+
+# 非公開ドキュメント
+/private/
+*_非公開.md
+*_private.md
